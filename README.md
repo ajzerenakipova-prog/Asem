@@ -1,2 +1,2 @@
 # Asem
-indecx.html
+index.html
